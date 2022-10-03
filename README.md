@@ -1,1 +1,1 @@
-# Image-Captioning
+# Image Captioning for Vietnamese
